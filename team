@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+<title>GUARD VEX U Robotics</title>
+<style>
+@font-face { font-family: NATS; src:url('NATS.ttf');}
+@font-face { font-family: NotoBlack; src:url('NotoSansMono-Black.ttf');}
+@font-face { font-family: Noto; src:url('NotoSansMono-Regular.ttf');}
+@font-face { font-family: NotoLight; src:url('NotoSansMono-Light.ttf');}
+h1{font-family: NotoBlack}
+h2{font-family: NotoLight}
+h3{font-family: Noto}
+h4{font-family: NotoLight}
+p{font-family: Noto}
+</style>
+
+</head>
+
+<body>
+<a href="index"><img src="newguard.png" class="center" width="200px"></a>
+<br>
+<h1>Team Profile</h1>
+
+<h2>Committee</h2>
+<h3>Jaden <i>Club President</i> <a href="https://www.linkedin.com/in/jaden-gibbons/"><img height="16pt" src="li.png"></a></h3>
+<p>Jaden is studying Electrical & Electronic Engineering and IT. He has 5 years of VEX experience and has qualified for the World Championships 3 times. Placeholder text</p>
+<h3>Zac	<i>Club Vice-President</i></h3>
+<p>Zac is studying Electrical & Electronic Engineering. Zac likes snakes and is <i>really good</i> at making websites.</p>
+<h3>Sam	<i>Club Treasurer</i> <a href="https://www.linkedin.com/in/samuel-snow-bollaan-45120820a/"><img height="16pt" src="li.png"></a></h3>
+<p>Sam is studying a Bachelor's of ICT. Sam has two years of VEX experience, and he particularly likes programming in Python, and C++. Sam hopes to work in the cybersecurity sector after university.</p>
+<h3>Ian <i>Secretary</i></h3>
+<p>Ian is one of the team's drivers, and he has 5 seasons of VEX experience. He is studying Electrical & Electronic Engineering and IT.</p>
+
+<h2>Team members</h2>
+<h3>Alex</h3>
+<p>Alex is studying at Griffith University, and is learning CAD and programming.</p>
+<h3>Anna</h3>
+<p>Anna is not studying at Griffith University, and is learning CAD and programming.</p>
+<h3>Aydar</h3>
+<p>Aydar is studying Electrical & Electronic Engineering, and is learning CAD and programming. He enjoys CAD modelling and building hardware.</p>
+<h3>Radu <a href="https://www.linkedin.com/in/radu-ormsby-07494a213/"><img height="16pt" src="li.png"></a></h3>
+<p>Radu is studying Electrical & Electronic Engineering, and is learning CAD and programming. He aspires to work on avionics or satellite systems.</p>
+<br>
+<hr>
+<p style="font-family:NotoLight;">
+GUARD 2022<br>
+<i>Griffith University Advanced Robotics Development</i> is a club of Griffith University and is proudly supported by the GUGC Student Guild and our constituent members.
+</p>
+</body>
+
+</html>

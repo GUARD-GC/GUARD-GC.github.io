@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+<title>GUARD VEX U Robotics</title>
+<style>
+@font-face { font-family: NATS; src:url('NATS.ttf');}
+@font-face { font-family: NotoBlack; src:url('NotoSansMono-Black.ttf');}
+@font-face { font-family: Noto; src:url('NotoSansMono-Regular.ttf');}
+@font-face { font-family: NotoLight; src:url('NotoSansMono-Light.ttf');}
+h1{font-family: NotoBlack}
+h2{font-family: NotoLight}
+h3{font-family: Noto}
+h4{font-family: NotoLight}
+p{font-family: Noto}
+</style>
+
+</head>
+
+<body>
+<a href="index"><img src="newguard.png" class="center" width="200px"></a>
+<br>
+<h1>Team Profile</h1>
+<img src="pokemoncards.png">
+<br>
+<hr>
+<p style="font-family:NotoLight;">
+GUARD 2022<br>
+<i>Griffith University Advanced Robotics Development</i> is a club of Griffith University and is proudly supported by the GUGC Student Guild and our constituent members.
+</p>
+</body>
+
+</html>
