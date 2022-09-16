@@ -11,6 +11,7 @@
 @font-face { font-family: NotoLight; src:url('NotoSansMono-Light.ttf');}
 h1{font-family: NotoBlack}
 h2{font-family: NotoLight}
+h3{font-family: Noto}
 h4{font-family: NotoLight}
 p{font-family: Noto}
 </style>
@@ -18,30 +19,10 @@ p{font-family: Noto}
 </head>
 
 <body>
-<img src="newguard.png" class="center">
+<a href="index"><img src="newguard.png" class="center" width="200px"></a>
 <br>
-<h1> -- Links -- </h1>
-<p>
-🔧 <a href="https://griffith.campusgroups.com/GUARD/club_signup">Join GUARD</a> to join our Discord
-<br>
-📸 <a href="instagram.com/guard.gc/">Instagram</a>
-</p>
-
-<h1> -- History -- </h1>
-<h2>2022</h2>
-<h4>Tipping Point | Australian National VEX Robotics Championship</h4>
-<p>
-<b>Robots:</b> Top Text & Bottom Text<br>
-<b>Qual. Rank:</b> 2nd<br>
-<b>Awards:</b> Tournament Finalist<br>
-<b>Record:</b> 0-10-0<br>
-We'll be back >:)
-</p>
-
-<h2>2021</h2>
-<p>
-Team founded by members of VRC 34565A and FRC 5985 on the Gold Coast
-</p>
+<h1>Team Profile</h1>
+<img src="pokemoncards.png">
 <br>
 <hr>
 <p style="font-family:NotoLight;">

@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+<title>GUARD VEX U Robotics</title>
+<style>
+@font-face { font-family: NATS; src:url('NATS.ttf');}
+@font-face { font-family: NotoBlack; src:url('NotoSansMono-Black.ttf');}
+@font-face { font-family: Noto; src:url('NotoSansMono-Regular.ttf');}
+@font-face { font-family: NotoLight; src:url('NotoSansMono-Light.ttf');}
+h1{font-family: NotoBlack}
+h2{font-family: NotoLight}
+h4{font-family: NotoLight}
+p{font-family: Noto}
+</style>
+
+</head>
+
+<body>
+<a href="index"><img src="newguard.png" class="center" width="200px"></a>
+<br>
+<h1> -- About Us -- </h1>
+<p>GUARD represents Griffith University Gold Coast in the VEX University varsity robotics competition.
+<br><br>
+<a href="pokemon"><img src="pokeball.png" width="16pt"></a> <a href="team">Team profile</a>
+</p>
+<h1> -- Links -- </h1>
+<p>
+🔧 <a href="https://griffith.campusgroups.com/GUARD/club_signup">Join GUARD</a> to join our Discord
+<br>
+📸 <a href="instagram.com/guard.gc/">Instagram</a>
+</p>
+
+<h1> -- History -- </h1>
+<h2>Spin Up (2022)</h2>
+<p><b>2022</b></p>
+<h4>Spin Up | Australian National VEX Robotics Championship</h4>
+<p>
+<b>Robots:</b> <br>
+<b>Qual. Rank:</b> <br>
+<b>Awards:</b> <br>
+<b>Record:</b> <br>
+</p>
+<h2>Tipping Point (2021 - 2022)</h2>
+<p><b>2022</b></p>
+<h4>Tipping Point | Australian National VEX Robotics Championship</h4>
+<p>
+<b>Robots:</b> Top Text & Bottom Text<br>
+<b>Qual. Rank:</b> 2nd<br>
+<b>Awards:</b> Tournament Finalist<br>
+<b>Record:</b> 0-10-0<br>
+We'll be back >:)
+</p>
+<p>
+<b>2021</b>
+<br>
+Team founded by members of VRC 34565A and FRC 5985 on the Gold Coast
+</p>
+<br>
+<hr>
+<p style="font-family:NotoLight;">
+GUARD 2022<br>
+<i>Griffith University Advanced Robotics Development</i> is a club of Griffith University and is proudly supported by the GUGC Student Guild and our constituent members.
+</p>
+</body>
+
+</html>
